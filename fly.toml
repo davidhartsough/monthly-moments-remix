@@ -1,4 +1,4 @@
-app = "monthly-020b"
+app = "monthly-moments"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
